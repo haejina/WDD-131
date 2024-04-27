@@ -15,22 +15,24 @@ body {
 
 
 .title h1 {
-    font-size: 43px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 42px;
     text-transform: uppercase;
-    letter-spacing: 3.5px;
+    letter-spacing: 3.0px;
     margin-bottom: 10px;
-    font-weight: 550;
+    font-weight: 549;
 }
 
 .title h2 {
     color: #006EB6;
-    font-size: 18px;
+    font-size: 15px;
     text-transform: uppercase;
     letter-spacing: 4.5px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     border-bottom: 0.1px solid gray; 
     font-weight: 580;
 }
+
 
 
 main {
@@ -41,6 +43,7 @@ main {
 main p {
     margin-bottom: 20px;
     font-size: 19px;
+    font-weight: 700;
 }
 
 .list {
@@ -50,6 +53,7 @@ main p {
 }
 .list li {
     margin-bottom: 25px; 
+    font-weight: 558;
 }
 
 main em {
